@@ -10,8 +10,8 @@ FOR UNLOCKING
 "https://developer.sony.com/open-source/aosp-on-xperia-open-devices/get-started/unlock-bootloader"
 5. Go this link and go bottom of page you will see "select your device" select your Xperia 1 IV and it will ask you IMEI code for unlock code type your IMEI code and it will give you unlock code save this.
 
-!!!IMPORTANT!!! THIS WILL WIPE ALL YOUR DATA INSIDE OF YOUR PHONE BE CAREFULL AND GET SOME BACKUP. !!!IMPORTANT!!!
-!!!IMPORTANT!!! THIS WILL WIPE ALL YOUR DATA INSIDE OF YOUR PHONE BE CAREFULL AND GET SOME BACKUP. !!!IMPORTANT!!!
+!!!WARNING!!! THIS WILL WIPE ALL YOUR DATA INSIDE OF YOUR PHONE BE CAREFULL AND GET SOME BACKUP. !!!WARNING!!!
+!!!WARNING!!! THIS WILL WIPE ALL YOUR DATA INSIDE OF YOUR PHONE BE CAREFULL AND GET SOME BACKUP. !!!WARNING!!!
 
 7. After that come back to CMD and type "fastboot oem unlock ***" *** replaced with your unlock code.
 8. And CMD will give you "OKAY" prompt so your device is now unlocked and wiped as well you need setup again.
@@ -22,8 +22,8 @@ FOR ROOTING
 1. Download XperiFirm from XDA or my repo.
 2. Open XperiFirm and select your device code mine is XQ-CT72 Taiwan firmware edition.
    
-!!!IMPORTANT!!! YOUR PHONE FIRMWARE SHOULD MATCH WITH DOWNLOADED FIRMWARE BE CAREFULL WHEN YOU DOING THAT. !!!IMPORTANT!!!
-!!!IMPORTANT!!! YOUR PHONE FIRMWARE SHOULD MATCH WITH DOWNLOADED FIRMWARE BE CAREFULL WHEN YOU DOING THAT. !!!IMPORTANT!!!
+!!!WARNING!!! YOUR PHONE FIRMWARE SHOULD MATCH WITH DOWNLOADED FIRMWARE BE CAREFULL WHEN YOU DOING THAT. !!!WARNING!!!
+!!!WARNING!!! YOUR PHONE FIRMWARE SHOULD MATCH WITH DOWNLOADED FIRMWARE BE CAREFULL WHEN YOU DOING THAT. !!!WARNING!!!
 
 ![resim](https://github.com/radiosamurai/RootXperia1IV/assets/104136919/4076a3ad-3880-4c49-bb54-ffb7f40cf37b)
 
