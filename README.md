@@ -26,16 +26,19 @@ FOR ROOTING
 !!!IMPORTANT!!! YOUR PHONE FIRMWARE SHOULD MATCH WITH DOWNLOADED FIRMWARE BE CAREFULL WHEN YOU DOING THAT. !!!IMPORTANT!!!
 
 ![resim](https://github.com/radiosamurai/RootXperia1IV/assets/104136919/4076a3ad-3880-4c49-bb54-ffb7f40cf37b)
+
 4. Select and click your firmware build number for downloading it will ask you a output path.
 5. When it finished you will see a folder that contains firmware files like *.sin
+
  ![resim](https://github.com/radiosamurai/RootXperia1IV/assets/104136919/75291b37-ed15-45dd-8456-ec736a342691)
-6. Download UnSin app from my repo or find from internet.
-7. When you download UnSin app extract to firmware folder.
-8. Open CMD on firmware folder and type "unsin.exe -dr" it will extract .sin files to .img ones.
-9. When done, locate "bootboot_X-FLASH-ALL-*.img" and transfer this file to your Xperia 1 IV's download folder.
-10. Install Magisk APP from Magisk repo in github (dont install from other websites this may be malware).
-11. Open Magisk APP and click "Install" after that click "select and patch a file" you need to select your boot.img from download folder we putted in step 8.
-12. When patch is done patched file saved in Download folder "magisk_patched-*.img" find this file in PC drag to your desktop (if you cant see in download folder on pc just unplug usb and put back in).
-13. Now open CMD in ADB tools that you download from my repo type "adb reboot bootloader" when its in bootloader phone notification light will be "blue"
-14. After all that we are going to flash or boot file with patched boot file so we need type "fastboot flash boot magisk_blabalba.img" so if it success CMD will return with "OKAY" after that just type "fastboot reboot" it will boot to system.
-15. When booted open Magisk app and you will see its installed congratulations you rooted your Xperia 1 IV dont forget opening Zydisk for some bank apps.
+ 
+7. Download UnSin app from my repo or find from internet.
+8. When you download UnSin app extract to firmware folder.
+9. Open CMD on firmware folder and type "unsin.exe -dr" it will extract .sin files to .img ones.
+10. When done, locate "bootboot_X-FLASH-ALL-*.img" and transfer this file to your Xperia 1 IV's download folder.
+11. Install Magisk APP from Magisk repo in github (dont install from other websites this may be malware).
+12. Open Magisk APP and click "Install" after that click "select and patch a file" you need to select your boot.img from download folder we putted in step 8.
+13. When patch is done patched file saved in Download folder "magisk_patched-*.img" find this file in PC drag to your desktop (if you cant see in download folder on pc just unplug usb and put back in).
+14. Now open CMD in ADB tools that you download from my repo type "adb reboot bootloader" when its in bootloader phone notification light will be "blue"
+15. After all that we are going to flash or boot file with patched boot file so we need type "fastboot flash boot magisk_blabalba.img" so if it success CMD will return with "OKAY" after that just type "fastboot reboot" it will boot to system.
+16. When booted open Magisk app and you will see its installed congratulations you rooted your Xperia 1 IV dont forget opening Zydisk for some bank apps.
