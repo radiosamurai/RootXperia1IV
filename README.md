@@ -45,4 +45,4 @@ FOR ROOTING
 13. When patch is done patched file saved in Download folder "magisk_patched-*.img" find this file in PC drag to your desktop (if you cant see in download folder on pc just unplug usb and put back in).
 14. Now open CMD in ADB tools that you download from my repo type "adb reboot bootloader" when its in bootloader phone notification light will be "blue"
 15. After all that we are going to flash or boot file with patched boot file so we need type "fastboot flash boot magisk_blabalba.img" so if it success CMD will return with "OKAY" after that just type "fastboot reboot" it will boot to system.
-16. When booted open Magisk app and you will see its installed congratulations you rooted your Xperia 1 IV dont forget opening Zydisk for some bank apps.
+16. When boot to system open Magisk app and you will see its installed. Congratulations you rooted your Xperia 1 IV dont forget opening Zydisk for some bank apps.
